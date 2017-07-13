@@ -12,7 +12,6 @@ namespace Currency
         {
             Console.WriteLine("Enter Amount");
             string amnt = Console.ReadLine();
-            string ee = string.Empty;
 
             //char last=amnt[amnt.Length - 1];
             //int numericValue;
